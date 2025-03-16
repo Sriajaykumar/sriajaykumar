@@ -1,5 +1,5 @@
 # 💫 About Me:
-To advance the success of esteem organizations via hard work and gained talents, and to continuously seek for greater work and achievement in life. I want to establish myself as a perfect and all- acceptable challenging developer.
+To advance the success of esteem organizations via hard work and gained talents, and to continuously seek for greater work and achievement in life. I want to establish myself as a perfect and all acceptable challenging Test engineer
 
 
 # 💻 Tech Stack:
